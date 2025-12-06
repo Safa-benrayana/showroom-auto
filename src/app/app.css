@@ -1,0 +1,21 @@
+div{
+    background-color:grey;
+}
+
+img{
+    width: 350px;
+    justify-content: center;
+}
+
+.container{
+    padding-top: 20px;
+}
+
+.row{
+    justify-content: center;
+}
+
+p{
+    text-align: justify;
+    color: #333333;
+}

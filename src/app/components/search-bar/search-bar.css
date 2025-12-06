@@ -1,0 +1,26 @@
+.header{
+    padding:50px;
+}
+input{
+    color:grey;
+    border:black 2px solid;
+}
+.auto-container{
+    display:flex;
+    justify-content: center;
+    justify-items: center;
+    flex-wrap: wrap;
+}
+
+.card{
+    margin: 20px;
+    box-shadow: 2px 2px 10px black ;
+}
+.card-body-even{
+    background-color: #333333;
+    color:azure;
+}
+.card-body-odd{
+    background-color: azure;
+    color:black;
+}
